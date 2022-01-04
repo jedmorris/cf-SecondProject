@@ -1,0 +1,17 @@
+.heroImage {
+	max-width: 300px;
+}
+
+section {
+	padding: 2em;
+	margin-bottom: 3em;
+}
+
+.oddRow {
+	background-color: #eeeeee;
+}
+
+.evenRow {
+	background-color: #666666;
+	color: white;
+}
