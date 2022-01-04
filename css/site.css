@@ -1,7 +1,9 @@
 .heroImage {
 	max-width: 300px;
 }
-
+.heroPic {
+	max-width: 100px;
+}
 section {
 	padding: 2em;
 	margin-bottom: 3em;
@@ -14,4 +16,15 @@ section {
 .evenRow {
 	background-color: #666666;
 	color: white;
+}
+
+.heroText {
+	font-family: 'Comic Neue', cursive;
+	font-size: 4em;
+	margin: 0;
+	text-transform: uppercase;
+	color: red;
+	text-shadow: 2px 1px #292929;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: yellow;
 }
